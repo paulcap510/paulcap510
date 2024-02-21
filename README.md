@@ -2,6 +2,7 @@
 I am a self-taught full-stack web developer from New York, currently spending time between Asia and New York City. I am currently building MERN stack applications and Next.js applications. Python was my first language, so I also love working with Django and FastAPI. 
 #### Current Projects
 <a href="https://calculatevisa.com">Schengen Visa Calculator</a><br>
+<a href="https://paulcapwebdev.com">Professional website</a>
 <a href="https://paulcapo.com">Personal website</a>
 
 ## My Skills
