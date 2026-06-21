@@ -1,4 +1,4 @@
-# Hi, I'm Paul Capobianco
+# Hi, I'm Paul C.
 I am a self-taught full-stack web developer from New York, currently spending time between Asia and New York City. I am currently building MERN stack applications and Next.js applications. Python was my first language, so I also love working with Django and FastAPI. 
 #### Current Projects
 <a href="https://calculatevisa.com">Schengen Visa Calculator</a><br>
